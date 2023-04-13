@@ -1,0 +1,1 @@
+Take a number and raise it to a particular power.
